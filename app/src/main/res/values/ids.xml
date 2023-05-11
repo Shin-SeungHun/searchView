@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tx_search" type="id" />
+    <item name="tx_result" type="id" />
+    <item name="tx_status" type="id" />
+</resources>
